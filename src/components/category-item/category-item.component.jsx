@@ -1,4 +1,4 @@
-import "./category-item.styles.scss";
+import "./category-item.styles.scss"; //jdogisme
 
 const CategoryItem = ({ id, title, imageUrl }) => {
   return (
